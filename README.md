@@ -1,4 +1,4 @@
-This is a starter template using Svelte-kit with Tailwind CSS JIT and Markdown support
+This is a starter template using Svelte-kit with Tailwind CSS JIT, Markdown and SEO support
 
 ## Developing
 
